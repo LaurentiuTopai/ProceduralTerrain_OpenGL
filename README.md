@@ -15,6 +15,7 @@ Proiectul acesta generează teren procedural folosind OpenGL și Perlin Noise.
 - `Proiect_PG2/` – cod sursă
 - `Assets/` – texturi și resurse
 - `x64/` – build local
+- Contine doar fisere sursa deoarece tot proiectul are mai mult de 100MB
 
 ## Cum compilezi
 1. Deschide `Proiect_PG2.sln` în Visual Studio
