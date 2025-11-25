@@ -2,7 +2,7 @@
 Proiectul acesta generează teren procedural folosind OpenGL și Perlin Noise.  
 
 ## Screenshot
-![Exemplu rulare](run.png)
+![Exemplu rulare](Run.png)
 
 ## Tehnologii folosite
 - C++17
